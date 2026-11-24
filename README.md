@@ -48,10 +48,7 @@ I'm a software engineer. Who love to solve problems using technologies. I believ
 ## Currently
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Codawah](github.com/Codawah)  
-  
-
-- 🌱 I’m currently learning Solana ecosystem  
+- 🔭 I’m currently working on [Rext AI](https://rext.ai)  
   
 
 </td><td valign="top" width="50%">
