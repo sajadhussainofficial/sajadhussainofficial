@@ -1,6 +1,17 @@
 <img src="https://github.com/sajjadcodes/sajjadcodes/blob/main/greetings.gif?raw=true" align="left" style="width: 100%" />  
 # <div align="center">Hey 👋, I'm Sajad Hussain</div>  
 
+# Hi, I'm Sajad Hussain 👋
+
+Software engineer and SaaS builder from Pakistan.
+
+- 🚀 Product @ [Rext AI](https://rext.ai), growth @ WPGrit
+- 🤖 AI and GTM engineering
+- 🧩 WordPress contributor: plugins and translations
+- 🎤 Tech speaker: AI, SaaS and WordPress
+
+**Code & projects:** [sajjadcodes.com](https://sajjadcodes.com) · **About me:** [iamsajadhussain.com](https://iamsajadhussain.com) · **LinkedIn:** [sajjadcodes](https://www.linkedin.com/in/sajjadcodes/)
+
 <a href="https://github.com/sajjadcodes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
